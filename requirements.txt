@@ -1,0 +1,6 @@
+streamlit
+uuid
+pydantic
+python-dotenv
+google-generativeai
+google-genai
